@@ -29,9 +29,6 @@
     <ClInclude Include="..\opengl_lib\include\learnopengl\camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\opengl_lib\include\learnopengl\filesystem.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\opengl_lib\include\learnopengl\mesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
