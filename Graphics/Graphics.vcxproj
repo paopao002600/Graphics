@@ -119,6 +119,7 @@
   <ItemGroup>
     <ClCompile Include="..\opengl_lib\glad.c" />
     <ClCompile Include="..\opengl_lib\stb_image.cpp" />
+    <ClCompile Include="mo.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
