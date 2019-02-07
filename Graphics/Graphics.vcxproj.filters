@@ -24,12 +24,12 @@
     <ClCompile Include="..\opengl_lib\glad.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="mo.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\opengl_lib\include\learnopengl\camera.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\opengl_lib\include\learnopengl\filesystem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\opengl_lib\include\learnopengl\mesh.h">

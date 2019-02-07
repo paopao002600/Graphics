@@ -119,11 +119,11 @@
   <ItemGroup>
     <ClCompile Include="..\opengl_lib\glad.c" />
     <ClCompile Include="..\opengl_lib\stb_image.cpp" />
+    <ClCompile Include="mo.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\opengl_lib\include\learnopengl\camera.h" />
-    <ClInclude Include="..\opengl_lib\include\learnopengl\filesystem.h" />
     <ClInclude Include="..\opengl_lib\include\learnopengl\mesh.h" />
     <ClInclude Include="..\opengl_lib\include\learnopengl\model.h" />
     <ClInclude Include="..\opengl_lib\include\learnopengl\shader.h" />
